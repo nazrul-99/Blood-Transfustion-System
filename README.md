@@ -1,3 +1,3 @@
 # Blood-Transfustion-System
 
-See the project report for the detail overview. 
+See the project report for the detailed overview. 
